@@ -1,5 +1,5 @@
 [ZALOZENIA.md](https://github.com/user-attachments/files/34924580/ZALOZENIA.md)
-# Założenia projektu: platforma do zarządzania wolopntariatem i akcjami społecznymi
+# Założenia projektu: platforma do zarządzania wolontariatem i akcjami społecznymi
 
 **Temat projektu:** System wspierający organizację i obsługę wolontariatu: łączenie wolontariuszy z organizacjami, zarządzanie akcjami, rekomendacje i potwierdzenia udziału.
 
