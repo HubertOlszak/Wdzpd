@@ -136,7 +136,8 @@
 
 ## 4. Przykładowy stos technoologiczny
 
-
+| Warstwa | Przykład |
+|---|---|
 | Frontend | React / Vue / Angular + MapLibre lub Leaflet |
 | Backend | Spring Boot (springdoc-openapi), ASP.NET Core, FastAPI lub NestJS |
 | Baza danych | PostgreSQL + PostGIS |
